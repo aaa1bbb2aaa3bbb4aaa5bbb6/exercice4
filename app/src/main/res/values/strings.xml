@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">td4exo4</string>
+
+    <string-array name="profession_array">
+        <item>"Professeur SIL école nationale supérieure d'informatique"</item>
+        <item>"Professeur SIQ école nationale supérieure d'informatique"</item>
+        <item>"Professeur SIT école nationale supérieure d'informatique"</item>
+    </string-array>
+
+    <string-array name="duree_array">
+        <item>"La durée de la seance est : 3 hrs"</item>
+        <item>"La durée de la seance est : 2 hrs"</item>
+        <item>"La durée de la seance est : 1 hrs"</item>
+    </string-array>
+
+    <string-array name="module_array">
+        <item>"Developpement Mobile"</item>
+        <item>"Developpement Web"</item>
+        <item>"Data Science"</item>
+    </string-array>
+
+    <string-array name="intitule_array">
+        <item>"Une application mobile est un logiciel applicatif développé pour un appareil électronique mobile, tel qu'un assistant personnel, un téléphone portable, un smartphone, un baladeur numérique, une tablette tactile, ou encore certains ordinateurs fonctionnant avec le système d'exploitation Windows Phone ou Chrome OS"</item>
+        <item>"La programmation web est la programmation informatique qui permet d'éditer des sites web. Elle permet la création d'applications, destinée à être déployée sur Internet ou un Intranet, constituées de pages pouvant prendre différentes formes"</item>
+        <item>"la science des données est l'extraction de connaissance d'ensembles de données1,2. Elle emploie des techniques et des théories tirées de plusieurs autres domaines plus larges des mathématiques, analyse, optimisation et statistique principalement, la théorie de l'information et la technologie de l'information, notamment le traitement de signal, des modèles probabilistes, l'apprentissage automatique, l'apprentissage statistique, la programmation informatique, l'ingénierie de données, la reconnaissance de formes et l'apprentissage, la visualisation, l'analytique prophétique, la modélisation d'incertitude, le stockage de données, la compression de données et le calcul à haute performance. Les méthodes qui s'adaptent aux données de masse sont particulièrement intéressantes dans la science des données, bien que la discipline ne soit généralement pas considérée comme limitée à ces données."</item>
+    </string-array>
+
+    <string-array name="enseignant_array">
+        <item>"Monsieur Mohammed"</item>
+        <item>"Monsieur Ahmed"</item>
+        <item>"Madame Hamida"</item>
+    </string-array>
+
+
+</resources>
